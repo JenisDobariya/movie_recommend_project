@@ -1,4 +1,6 @@
-## Movie Recommend Project
+## Movie Recommend System Tmdb Dataset
 
-This is a live web link:
-https://emmarmovierecommend.streamlit.app/
+A content-based movie recommender system using cosine similarity
+
+
+This is a live web link:(https://emmarmovierecommend.streamlit.app/)

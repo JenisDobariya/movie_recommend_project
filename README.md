@@ -13,22 +13,22 @@ What is in Project:
 -This is a live web link:(https://emmarmovierecommend.streamlit.app/)
 
 -->
-## Movie Recommend System Tmdb Dataset
+# Movie Recommend System Tmdb Dataset
 (Machine Learning Project)
 
-# Overview:
+## Overview:
 This project is a content-based movie recommender system that utilizes cosine similarity to suggest movies based on user preferences.
 
-# Key Features:
+## Key Features:
  - Data Preprocessing
  - Data Cleaning
  - Model Training
  - Deployment using Streamlit
  - Technologies & Libraries: Python, Streamlit, Pandas, NumPy, Pickle, and more.
-# Live Demo:
+## Live Demo:
 Check out the live web app here:![Movie Recommender System](https://emmarmovierecommend.streamlit.app/)
 
-Screenshots:
+## Screenshots:
 Home Page:
 ![](https://github.com/user-attachments/assets/c5e09c8d-c916-40db-8e60-d396b13b7099)
 Recommendation Page::

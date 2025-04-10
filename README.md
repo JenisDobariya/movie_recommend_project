@@ -26,7 +26,7 @@ This project is a content-based movie recommender system that utilizes cosine si
  - Deployment using Streamlit
  - Technologies & Libraries: Python, Streamlit, Pandas, NumPy, Pickle, and more.
 ## Live Demo:
-Check out the live web app here: [Movie Recommender System](https://emmarmovierecommend.streamlit.app/)
+Check out the live web app here: [Movie Recommender System](https://bestmovierecommend.streamlit.app/)
 
 ## Screenshots:
 Home Page:
